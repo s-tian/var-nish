@@ -1,0 +1,23 @@
+{
+  "name": "var-nish",
+  "version": "1.0.0",
+  "description": "Checks variable names for consistency and best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-tian/var-nish.git"
+  },
+  "keywords": [
+    "variables",
+    "node"
+  ],
+  "author": "Stephen Tian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-tian/var-nish/issues"
+  },
+  "homepage": "https://github.com/s-tian/var-nish#readme"
+}
