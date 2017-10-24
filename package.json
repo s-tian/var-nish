@@ -15,6 +15,9 @@
     "node"
   ],
   "author": "Stephen Tian",
+  "contributors": [
+    "Anton Cao",
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/s-tian/var-nish/issues"
